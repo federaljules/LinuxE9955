@@ -1,5 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 #container{
@@ -26,6 +27,7 @@
 }
 .content p{
     padding: 30px;
+    line-height: 25pt;
     
 }
 
